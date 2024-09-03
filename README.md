@@ -17,11 +17,6 @@
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
       <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-      <img width="12" />
-  <img src="https://skillicons.dev/icons?i=yarn" height="40" alt="yarn logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  
 </div>
 
 ###
