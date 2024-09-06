@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is nly and I'm a ui/ux designer from Germany</h2>
+<h2 align="left">Hi 👋! My nick is nly and I'm a ui/ux designer from Germany</h2>
 
 ###
 
