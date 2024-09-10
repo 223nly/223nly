@@ -2,7 +2,7 @@
 <br>
 <br>
 <a href="https://22nly.pro">
-    <img src="https://img.shields.io/badge/-223nly-231b1a?style=for-the-badge&logo=aboutdotme&logoColor=f5c37c"/>
+    <img src="https://img.shields.io/badge/-223nly-231b1a?style=for-the-badge&logo=aboutdotme&logoColor=a689f7"/>
 </a>
 <br>
 <br>
