@@ -14,6 +14,4 @@
 <img src="https://img.shields.io/badge/-TypeScript-2f74c0?style=flat&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Node.js-026E00?style=flat&logo=nodedotjs&logoColor=white"/>
 <br>
-z
-<br>
 [![Discord](https://img.shields.io/badge/-Discord%20%28Click%29-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/users/485918082934767617)
